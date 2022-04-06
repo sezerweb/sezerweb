@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there 👋 
+My name is Sezer. I'm a software developer in Turkey.🇹🇷
 
 <!--
 **sezerweb/sezerweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Sezer's Github Stats](https://github-readme-stats.vercel.app/api?username=sezerweb&count_private=true&theme=default&show_icons=true)](https://github.com/sezerweb)
